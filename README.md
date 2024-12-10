@@ -1,0 +1,1 @@
+This repository demonstrates two uncommon error scenarios in Python that can be easily overlooked.  The `bug.py` file contains a function that attempts to perform division operations which can lead to both `TypeError` and `ZeroDivisionError`. The `bugSolution.py` file contains a solution for better handling of these errors.
